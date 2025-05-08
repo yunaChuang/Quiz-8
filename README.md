@@ -4,14 +4,15 @@ Week 9
 
 # Part 1: Imaging Technique Inspiration
 ### Concentric pattern
-> I want to combine the centrical pattern part into the project. For ripples, it is easier to apply which only include circles with certain x and y position. Concentric patterns can be used with mouse or as a signal. Therefore, the connection with "Wheels of fortune" would support this idea to dedicate to main project. 
+> I plan to combine the concentrical patterns into the project. Ripple effect involves circles with certain x and y position is the main idea. This patterns can be used with mouse, as a signal or just directly add to the artwork. By connecting this technique with "Wheels of fortune" by Pacita Abad, support me to bring this element to our main project. 
 
 -  Ripple (concentric circle)
 ![This is for alt text.](/assets/ripple.jpg "this is just a ripple image.")
 
+---
 # Part 2:
 ### Ripple
-1. Draw Code
+1. Draw
 ```
 function draw() {
   background(255);
@@ -29,7 +30,7 @@ function draw() {
 }
 ```
 > This code use loop to  draw ripples. Keep making the circle smaller until it disappears.
- 2. Mouse code
+ 2. Mouse
  ```
  function mouseMoved() {
   let rippleSize = random(50, 200);
@@ -61,4 +62,4 @@ class Ripple {
 ```
 > Set a class called ripple. Display the ripple. Enlarge the circles and decrease their alpha to make them looks like ripples.
 
-Code for ripple press [here](https://openprocessing.org/sketch/1979024).
+More code for ripple press [here](https://openprocessing.org/sketch/1979024).
