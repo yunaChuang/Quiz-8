@@ -13,6 +13,7 @@ Week 9
 -  Ripple (concentric circle)
 ![ripple 1](/assets/ripple.jpg "this is just a ripple image.")
 ![ripple 2](/assets/rippling-water-abstract-stockcake.jpg "this is just a ripple image.")
+- Artwork from Pacita Abad
 ![by Pacita Abad](/assets/919.3567.jpg "this is another artwork from Pacita Abad.")
 
 ---
