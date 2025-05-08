@@ -11,7 +11,9 @@ Week 9
 > I plan to combine the concentrical patterns into the project. Ripple effect involves circles with certain x and y position is the main idea. This patterns can be used with mouse, as a signal or just directly add to the artwork. By connecting this technique with "Wheels of fortune" by Pacita Abad, support me to bring this element to our main project. 
 
 -  Ripple (concentric circle)
-![This is for alt text.](/assets/ripple.jpg "this is just a ripple image.")
+![ripple 1](/assets/ripple.jpg "this is just a ripple image.")
+![ripple 2](/assets/rippling-water-abstract-stockcake.jpg "this is just a ripple image.")
+![by Pacita Abad](/assets/919.3567.jpg "this is another artwork from Pacita Abad.")
 
 ---
 # Part 2:
