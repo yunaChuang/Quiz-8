@@ -17,7 +17,7 @@ Week 9
 ![by Pacita Abad](/assets/919.3567.jpg "this is another artwork from Pacita Abad.")
 
 ---
-# Part 2:
+# Part 2: Coding Technique Exploration
 ### Ripple
 1. Draw
 ```
